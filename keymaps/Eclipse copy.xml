@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="OpenInBrowserGroup">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+</keymap>
