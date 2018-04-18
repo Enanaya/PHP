@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="NewSolidity" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\76500\AppData\Roaming\npm\solcjs.cmd" />
+      <option name="PARAMETERS" value="--abi --bin $FileName$ -o $FileDir$\out" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>
